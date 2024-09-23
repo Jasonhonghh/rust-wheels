@@ -1,1 +1,0 @@
-window.ALL_CRATES = ["log","once_cell","pin_project_lite","proc_macro2","quote","syn","tracing","tracing_attributes","tracing_core","unicode_ident","web_server"];
